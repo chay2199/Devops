@@ -1,0 +1,15 @@
+accuracy = 0
+pull from github
+copy model1 to working_model
+run model
+check accuracy file
+if (> accuracy)
+else mail final model
+copy model2 to working_model
+check accuracy file
+if (> accuracy)
+copy model3 to working_model
+if (> accuracy)
+mail final model as model3 
+else
+mail final model as model2
